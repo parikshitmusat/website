@@ -134,7 +134,7 @@ const Subsystem = () => {
 
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faLinkedinIn} size="2x" color="#fff" />
@@ -372,7 +372,7 @@ const Subsystem = () => {
 
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faLinkedinIn} size="2x" color="#fff" />
@@ -577,7 +577,7 @@ const Subsystem = () => {
 
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faLinkedinIn} size="2x" color="#fff" />
@@ -595,7 +595,7 @@ const Subsystem = () => {
           <SocialMedia>
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faInstagram} size="2x" color="#fff" />
@@ -604,7 +604,7 @@ const Subsystem = () => {
 
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faLinkedinIn} size="2x" color="#fff" />
@@ -630,7 +630,7 @@ const Subsystem = () => {
 
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faLinkedinIn} size="2x" color="#fff" />
@@ -683,7 +683,7 @@ const Subsystem = () => {
 
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faLinkedinIn} size="2x" color="#fff" />
@@ -701,7 +701,7 @@ const Subsystem = () => {
           <SocialMedia>
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faInstagram} size="2x" color="#fff" />
@@ -710,7 +710,7 @@ const Subsystem = () => {
 
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faLinkedinIn} size="2x" color="#fff" />
@@ -790,7 +790,7 @@ const Subsystem = () => {
 
             <SocialMediaIcons>
               <a
-                href=""
+                href="./"
                 className="instagram social"
               >
                 <FontAwesomeIcon icon={faLinkedinIn} size="2x" color="#fff" />
